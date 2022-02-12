@@ -1,7 +1,7 @@
 # Fintech-Casestudy - Insurance Tech
 
-[Insurance Tech](images/Insurance.jpg)
+![Insurance Tech](images/Insurance.jpg)
 
-[Insurance Process](images/InnovationProcess.png)
+![Insurance Process](images/InnovationProcess.png)
 
 
