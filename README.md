@@ -2,6 +2,6 @@
 
 [Insurance Process](images/Insurance.jpg)
 
-[Insurance Process](images/Innovation Process.png)
+[Insurance Process](images/InnovationProcess.png)
 
 
