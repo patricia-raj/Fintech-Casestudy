@@ -2,6 +2,6 @@
 
 ![Insurance Tech](images/Insurance.jpg)
 
-![Insurance Process](images/InnovationProcess.png)
+![Insurance Process](images/Innovation_Process.png)
 
 
