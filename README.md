@@ -1,3 +1,3 @@
-# Fintech-Casestudy
+# Fintech-Casestudy - Insurance Tech
 
-## Amelia and Patricia's Collaboration
+
